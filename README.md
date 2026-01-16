@@ -1,4 +1,4 @@
-# Task-1-SQL-Data-Types-Constraints-Table-Design
+# Task-2-SQL-Data-Types-Constraints-Table-Design
 MySQL table design using data types, constraints, and ALTER TABLE operations.
 ### Objective
 Learn proper table design using SQL data types and constraints.
